@@ -2,8 +2,9 @@
 <h3 align="center">💻 BSCS Student | C++ Developer | Cybersecurity Enthusiast</h3>
 <img width="1885" height="461" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/ef9cca79-888b-4846-ab70-6dd2920c7662" />
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulwahab791&label=Profile%20views&color=0e75b6&style=flat" alt="abdulwahab791" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulwahab791" alt="abdulwahab791" /></a> </p>
 
 - 🌱 I’m currently learning **C++**
 
@@ -26,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulwahab791&show_icons=true&locale=en" alt="abdulwahab791" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulwahab791&" alt="abdulwahab791" /></p>
+
+
